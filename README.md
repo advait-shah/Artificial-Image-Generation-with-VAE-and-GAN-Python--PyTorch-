@@ -1,1 +1,1 @@
-# Artificial-Image-Generation-with-VAE-and-GAN-Python--PyTorch-
+# Artificial-Image-Generation-with-VAE-and-GAN-using-Python-PyTorch
